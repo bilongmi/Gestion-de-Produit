@@ -13,6 +13,11 @@ export default {
       primary: "#0771c7",
       error: "#f3785b"
     },
+    fontFamily: {
+      sans: ['"Sofia Sans"', "sans-serif"],
+      serif: ['"Noto Serif Toto"', "serif"],
+      lumanosimo: ["Lumanosimo"]
+    },
     extend: {},
   },
   plugins: [],
